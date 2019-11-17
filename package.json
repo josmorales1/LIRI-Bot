@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josmorales1/LIRI-Bot.git"
+  },
+  "author": "Jose Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josmorales1/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/josmorales1/LIRI-Bot#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
